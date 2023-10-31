@@ -4,14 +4,16 @@ body {
     padding: 0;
 }
 
+header img {
+    max-width: 100%;
+}
+
 header {
     text-align: center;
     padding: 40px 0;
 }
 
-header img {
-    max-width: 100%;
-}
+
 
 .btn {
     display: block;
